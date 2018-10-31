@@ -8,7 +8,7 @@ It was the final project of the third sprint of Laboratoria bootcamp. Working in
 ![App map](./assets/images/dashboard.png)
 
 ## Use
-If you want to access, put the username *juliana* and the password *gatinhos*.
+If you want to access, put the username *visitante* and the password *123456*.
 
 ## Technology Stack
 + HTML5
